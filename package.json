@@ -1,0 +1,31 @@
+{
+  "name": "next-firebase-addressbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woonet/next-firebase-AddressBook.git"
+  },
+  "author": "woonet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woonet/next-firebase-AddressBook/issues"
+  },
+  "homepage": "https://github.com/woonet/next-firebase-AddressBook#readme",
+  "dependencies": {
+    "firebase": "^7.19.1",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  }
+}
